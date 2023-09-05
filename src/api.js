@@ -21,3 +21,4 @@ export const getWeather = () => {
 // =>npm i axios
 // =>프론트에서 필요한 데이터를 서버에 요청하는데
 // url에 필요한 변수값 등을 설정함
+// 
